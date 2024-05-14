@@ -1,0 +1,15 @@
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\bin\Debug\net6.0\caterpillar_system_test.exe
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\bin\Debug\net6.0\caterpillar_system_test.deps.json
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\bin\Debug\net6.0\caterpillar_system_test.runtimeconfig.json
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\bin\Debug\net6.0\caterpillar_system_test.dll
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\bin\Debug\net6.0\caterpillar_system_test.pdb
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.csproj.AssemblyReference.cache
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.AssemblyInfoInputs.cache
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.AssemblyInfo.cs
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.dll
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\refint\caterpillar_system_test.dll
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.pdb
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\caterpillar_system_test.genruntimeconfig.cache
+C:\Users\Benjamin Sinzore\Documents\caterpillar_system\caterpillar_system_test\obj\Debug\net6.0\ref\caterpillar_system_test.dll

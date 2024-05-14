@@ -1,0 +1,8 @@
+Command: 14/05/2024 16:05:34, was executed.
+Command: 14/05/2024 16:05:44, was executed.
+Command: 14/05/2024 16:05:55, was executed.
+Command: 14/05/2024 16:07:06, was executed.
+Command: U, was executed.
+Command: Up and move: 5, was executed.
+Command: Down and move: 1, was executed.
+Command: Right and move: 4, was executed.
